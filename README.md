@@ -6,12 +6,12 @@
 
 ## Equipe
 
-**Nome da dupla:** ____________________ (deixe em branco se for individual)
+**Nome da dupla:** LITLLEBIG AND CRY CRY CRY (deixe em branco se for individual)
 
 | Nome | Matrícula | Usuário do GitHub |
 | --- | --- | --- |
-|  |  |  |
-|  |  |  |
+| Igor S.Gomes  | 2420443 | Iguinho |
+| Ricardo Oliveira de Almeida | 2384915 | Ricardooliv20 |
 
 ## O cenário
 
